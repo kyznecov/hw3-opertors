@@ -1,6 +1,6 @@
 
 
-let user = {
+const user = {
     name: "vasya",
     age: 20,
     role: "Admin",
